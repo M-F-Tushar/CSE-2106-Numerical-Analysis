@@ -1,6 +1,6 @@
 # CSE-2106 — Numerical Analysis
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-F-Tushar/CSE-2106-Numerical-Analysis)
-> Python implementations of core numerical methods covered in the CSE-2106 course, with detailed explanations, worked examples, and iteration-by-iteration output for each algorithm. 
+> Python implementations of core numerical methods covered in the CSE-2106 course, with detailed explanations, worked examples, and iteration-by-iteration output for each algorithm.  
 
 ---
 
